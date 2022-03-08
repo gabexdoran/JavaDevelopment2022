@@ -1,0 +1,10 @@
+Apple,1,1.25,2.0,150,5,0.15,Fruit
+Bananas,2,2.99,4.5,65,0,0,Fruit
+Bread,3,1.75,0.5,200,5,0.25,Bread
+Corn,4,0.99,1.0,85,0,0,Vegetable
+Cucumber,5,1.10,1.2,90,0,0,Vegetable
+Eggs,6,2.50,2.0,360,5,0.25,Meat
+Grapes,7,3.15,8.0,90,0,0,Fruit
+Ham,8,4.75,12.5,60,5,0.15,Meat
+Kale,9,3.00,1.8,100,5,0.10,Vegetable
+Turkey,10,4.99,13.0,45,0,0,Meat
